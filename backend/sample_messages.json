@@ -1,0 +1,329 @@
+{
+  "messages": [
+    {
+      "id": "MSG001",
+      "type": "email",
+      "sender": {
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Website Launch",
+      "date": "2026-11-02T10:30:00+05:30",
+      "content": "Please complete the payment gateway integration and share the staging URL before Thursday.",
+      "attachments": []
+    },
+    {
+      "id": "MSG002",
+      "type": "email",
+      "sender": {
+        "name": "Priya Patel",
+        "email": "priya@client.com"
+      },
+      "recipient": "support@example.com",
+      "subject": "Server Down",
+      "date": "2026-11-02T11:15:00+05:30",
+      "content": "URGENT! Our production server is completely down. Clients cannot log in. Fix this immediately.",
+      "attachments": []
+    },
+    {
+      "id": "MSG003",
+      "type": "message",
+      "sender": {
+        "name": "Amit Kumar",
+        "email": "amit@example.com"
+      },
+      "recipient": "hr@example.com",
+      "subject": "Leave Request",
+      "date": "2026-11-02T12:00:00+05:30",
+      "content": "Hi, I would like to request leave for next Monday and Tuesday due to a family emergency.",
+      "attachments": []
+    },
+    {
+      "id": "MSG004",
+      "type": "email",
+      "sender": {
+        "name": "Neha Gupta",
+        "email": "neha@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Weekly Newsletter",
+      "date": "2026-11-02T14:00:00+05:30",
+      "content": "Here is the weekly newsletter highlighting our top articles on AI and web development. Enjoy reading!",
+      "attachments": []
+    },
+    {
+      "id": "MSG005",
+      "type": "email",
+      "sender": {
+        "name": "Vikram Singh",
+        "email": "vikram@client.com"
+      },
+      "recipient": "sales@example.com",
+      "subject": "Invoice Discrepancy",
+      "date": "2026-11-02T15:30:00+05:30",
+      "content": "I noticed a discrepancy in invoice #4512. You charged us for 10 licenses but we only ordered 5. Please resolve this by tomorrow.",
+      "attachments": []
+    },
+    {
+      "id": "MSG006",
+      "type": "email",
+      "sender": {
+        "name": "User 6",
+        "email": "user6@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 6",
+      "date": "2026-11-16T14:46:36.583874",
+      "content": "This is a sample message 6 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG007",
+      "type": "email",
+      "sender": {
+        "name": "User 7",
+        "email": "user7@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 7",
+      "date": "2026-11-16T14:46:36.583896",
+      "content": "This is a sample message 7 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG008",
+      "type": "email",
+      "sender": {
+        "name": "User 8",
+        "email": "user8@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 8",
+      "date": "2026-11-16T14:46:36.583899",
+      "content": "This is a sample message 8 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG009",
+      "type": "email",
+      "sender": {
+        "name": "User 9",
+        "email": "user9@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 9",
+      "date": "2026-11-16T14:46:36.583900",
+      "content": "This is a sample message 9 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0010",
+      "type": "email",
+      "sender": {
+        "name": "User 10",
+        "email": "user10@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 10",
+      "date": "2026-11-16T14:46:36.583902",
+      "content": "This is a sample message 10 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0011",
+      "type": "email",
+      "sender": {
+        "name": "User 11",
+        "email": "user11@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 11",
+      "date": "2026-11-16T14:46:36.583904",
+      "content": "This is a sample message 11 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0012",
+      "type": "email",
+      "sender": {
+        "name": "User 12",
+        "email": "user12@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 12",
+      "date": "2026-11-16T14:46:36.583907",
+      "content": "This is a sample message 12 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0013",
+      "type": "email",
+      "sender": {
+        "name": "User 13",
+        "email": "user13@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 13",
+      "date": "2026-11-16T14:46:36.583909",
+      "content": "This is a sample message 13 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0014",
+      "type": "email",
+      "sender": {
+        "name": "User 14",
+        "email": "user14@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 14",
+      "date": "2026-11-16T14:46:36.583911",
+      "content": "This is a sample message 14 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0015",
+      "type": "email",
+      "sender": {
+        "name": "User 15",
+        "email": "user15@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 15",
+      "date": "2026-11-16T14:46:36.583912",
+      "content": "This is a sample message 15 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0016",
+      "type": "email",
+      "sender": {
+        "name": "User 16",
+        "email": "user16@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 16",
+      "date": "2026-11-16T14:46:36.583914",
+      "content": "This is a sample message 16 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0017",
+      "type": "email",
+      "sender": {
+        "name": "User 17",
+        "email": "user17@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 17",
+      "date": "2026-11-16T14:46:36.583915",
+      "content": "This is a sample message 17 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0018",
+      "type": "email",
+      "sender": {
+        "name": "User 18",
+        "email": "user18@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 18",
+      "date": "2026-11-16T14:46:36.583917",
+      "content": "This is a sample message 18 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0019",
+      "type": "email",
+      "sender": {
+        "name": "User 19",
+        "email": "user19@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 19",
+      "date": "2026-11-16T14:46:36.583918",
+      "content": "This is a sample message 19 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0020",
+      "type": "email",
+      "sender": {
+        "name": "User 20",
+        "email": "user20@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 20",
+      "date": "2026-11-16T14:46:36.583921",
+      "content": "This is a sample message 20 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0021",
+      "type": "email",
+      "sender": {
+        "name": "User 21",
+        "email": "user21@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 21",
+      "date": "2026-11-16T14:46:36.583923",
+      "content": "This is a sample message 21 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0022",
+      "type": "email",
+      "sender": {
+        "name": "User 22",
+        "email": "user22@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 22",
+      "date": "2026-11-16T14:46:36.583924",
+      "content": "This is a sample message 22 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0023",
+      "type": "email",
+      "sender": {
+        "name": "User 23",
+        "email": "user23@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 23",
+      "date": "2026-11-16T14:46:36.583926",
+      "content": "This is a sample message 23 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0024",
+      "type": "email",
+      "sender": {
+        "name": "User 24",
+        "email": "user24@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 24",
+      "date": "2026-11-16T14:46:36.583928",
+      "content": "This is a sample message 24 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    },
+    {
+      "id": "MSG0025",
+      "type": "email",
+      "sender": {
+        "name": "User 25",
+        "email": "user25@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "General Inquiry 25",
+      "date": "2026-11-16T14:46:36.583930",
+      "content": "This is a sample message 25 for testing. Please review the attached document and let me know if you have any questions.",
+      "attachments": []
+    }
+  ]
+}
